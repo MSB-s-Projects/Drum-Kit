@@ -67,6 +67,6 @@ footer {
 }
 
 .pressed {
-  box-shadow: 0px 3px 4px 0px #DBEDF3;
+  box-shadow: 0px 3px 4px 0px #dbedf3;
   opacity: 0.5;
 }
